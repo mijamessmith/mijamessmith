@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hello Hello
 
-<!--
-**mijamessmith/mijamessmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### My name is Michael and I'm a full stack engineer. I live in the Bay Area.
 
-Here are some ideas to get you started:
+### GET IN TOUCH
+
+  ###### Email: mijamessmith@gmail.com
+  ###### Twitter: @michaelCP17
+  ###### LinkedIn: linkedin.com/in/michaelsmithcp
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
