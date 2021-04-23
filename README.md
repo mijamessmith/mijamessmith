@@ -6,7 +6,7 @@
 
 ### I've most recently been working on  :hammer:
  
-  - [JobSite](https://github.com/mijamessmith/JobSite). A portal for seekers and employers to find each other and offer support around the hiring/seeking process.
+  - [JobOcean](https://github.com/mijamessmith/JobOcean). A portal for seekers and employers to find each other and offer support around the hiring/seeking process.
   - [Altilier-Systems](https://github.com/mijamessmith/Altilier-Systems). A Multi-module, load-balanced backend micro-service system for consumer product reviews.
   - [ProductCycle](https://github.com/mijamessmith/ProductCycle). Related Products and User Outfits modudules within an ecommerce, retail-centric website application.
 
