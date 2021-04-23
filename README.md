@@ -1,8 +1,8 @@
 ### Hi There, I'm Michael   :wave:
 
-### Thanks for swinging by. I'm a fullstack engineer living in the Bay Area working mostly in Node, React, and postgreSQL/MySQL + Mongo. 
+Thanks for swinging by. I'm a fullstack engineer living in the Bay Area working mostly in Node, React, and postgreSQL/MySQL + Mongo. 
 
-### Before my engineering career I was a concert pianist and a fellow at Carnegie Hall/Juilliard. I earned a doctorate from Stony Brook University and travelled all over the world performing and finding the most dive-y restaurants in every city  :musical_score:  :fork_and_knife:.
+Before my engineering career I was a concert pianist and a fellow at Carnegie Hall/Juilliard. I earned a doctorate from Stony Brook University and travelled all over the world performing and finding the most dive-y restaurants in every city  :musical_score:  :fork_and_knife:.
 
 ### I've most recently been working on  :hammer:
  
