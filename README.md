@@ -9,5 +9,5 @@ Before my engineering career I was a concert pianist and a fellow at Carnegie Ha
   ###### Email: mijamessmith@gmail.com
   ###### Twitter: @michaelCP17
   ###### LinkedIn: linkedin.com/in/michaelsmithcp
-
+  ###### Publications: https://medium.com/@mijamessmith
 
